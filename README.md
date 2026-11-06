@@ -18,5 +18,5 @@ Assurez-vous d'avoir [Docker](https://www.docker.com/) installé sur votre machi
 
 1. **Cloner le dépôt et se placer dans le dossier :**
    ```bash
-   git clone <URL_DE_TON_DEPOT_GIT>
+   git clone https://github.com/mochimochiboby/infonuagique_tp2
    cd tp_docker_banque
